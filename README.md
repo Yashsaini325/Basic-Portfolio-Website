@@ -48,6 +48,6 @@ Feel free to reach out for collaborations, questions, or just to say hello!
 <br>
 Your Name - your.email@example.com
 
-Project Link: https://github.com/Yashsaini325/Basic-Portfolio-Wesite
+Project Link: https://github.com/Yashsaini325/Basic-Portfolio-Website
 
 LinkedIn: www.linkedin.com/in/yash-saini-b00210317
